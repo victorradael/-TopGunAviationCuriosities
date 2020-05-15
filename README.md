@@ -15,7 +15,7 @@
 
 ## About <a name = "about"></a>
 
-Using only HTML and CSS, during the training given by [Origami](https://www.origamid.com/), I developed this layout inspired by the film Top Gun to talk about military aircraft, which in this case is the F - 14 aircraft used by the United States Navy.
+Using only HTML and CSS, during the training given by [Origamid](https://www.origamid.com/), I developed this layout inspired by the film Top Gun to talk about military aircraft, which in this case is the F - 14 aircraft used by the United States Navy.
 
 ## Getting Started <a name = "getting_started"></a>
 
